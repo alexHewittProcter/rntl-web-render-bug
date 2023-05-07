@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card test Should render correctly 1`] = `
+<div
+  className="css-view-175oi2r"
+  dir={null}
+>
+  <div
+    className="css-text-146c3p1"
+    dir="auto"
+  >
+    Hello world
+  </div>
+</div>
+`;
